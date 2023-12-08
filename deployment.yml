@@ -55,3 +55,6 @@ spec:
         - name: jenkins-data
           persistentVolumeClaim:
               claimName: jenkins-pv-claim
+
+
+---      
